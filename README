@@ -1,0 +1,3 @@
+This program simulates a basic operating system window manager using a LinkedList. The user can click on any window int the GUI to bring it to the front. When clicking within the frontmost window, the user can add or remove squares from that window.
+
+This program can be run by compiling and running WindowMainMethod.java.
